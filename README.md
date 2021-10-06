@@ -61,3 +61,5 @@
 
 ## Libraries
 [Merlion](https://arxiv.org/pdf/2109.09265v1.pdf)
+
+[Revisiting Time Series Outlier Detection: Definition and Benchmark](https://github.com/datamllab/tods/tree/benchmark)
