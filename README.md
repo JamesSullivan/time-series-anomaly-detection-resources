@@ -12,7 +12,9 @@
 
 [Time Series Anomaly Detection with PyCaret](https://towardsdatascience.com/time-series-anomaly-detection-with-pycaret-706a6e2b2427)
 
+[Time Series Anomaly Detection using LSTM Autoencoders with PyTorch in Python](https://curiousily.com/posts/time-series-anomaly-detection-using-lstm-autoencoder-with-pytorch-in-python/)
 
+[PyTorch Linear autoencoder for TS anomaly detection - JulienAu](https://github.com/JulienAu/Anomaly_Detection_Tuto/blob/master/English_version.ipynb)
 
 ## Papers
 <table>
