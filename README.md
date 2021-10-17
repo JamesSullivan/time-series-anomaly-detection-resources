@@ -18,6 +18,8 @@
 
 [Keras Deep-Learning-Time-Series-Anomaly-Detection](https://github.com/swlee23/deep-learning-time-series-anomaly-detection/blob/master/deep-ant-main.ipynb)
 
+[Timeseries anomaly detection using an Autoencoder (Keras)](https://keras.io/examples/timeseries/timeseries_anomaly_detection/)
+
 ## Papers
 <table>
   <thead valign="bottom">
