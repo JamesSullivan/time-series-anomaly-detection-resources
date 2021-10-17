@@ -16,6 +16,8 @@
 
 [PyTorch Linear autoencoder for TS anomaly detection - JulienAu](https://github.com/JulienAu/Anomaly_Detection_Tuto/blob/master/English_version.ipynb)
 
+[Keras Deep-Learning-Time-Series-Anomaly-Detection](https://github.com/swlee23/deep-learning-time-series-anomaly-detection/blob/master/deep-ant-main.ipynb)
+
 ## Papers
 <table>
   <thead valign="bottom">
@@ -56,6 +58,27 @@
       <td>2021</td>
       <td><a><span id="user-content-id18"><span id="user-content-id18"></span>[#Ma2021Jump]_</span></a></td>
       <td><a href="https://www.usenix.org/system/files/atc21-ma.pdf" rel="nofollow">[PDF]</a>, <a href="https://youtu.be/tm4HwA75Q28">[Video]</a></td>
+    </tr>
+    <tr>
+      <td>Convolutional Neural Network Analysis of Recurrence Plots for Anomaly Detection</td>
+      <td>researchgate</td>
+      <td>2020</td>
+      <td><a><span id="user-content-id18"><span id="user-content-id18"></span>[#Ma2021Jump]_</span></a></td>
+      <td><a href="https://www.researchgate.net/publication/338103205_Convolutional_Neural_Network_Analysis_of_Recurrence_Plots_for_Anomaly_Detection" rel="nofollow">[HTML]</a>
+    </tr>
+    <tr>
+      <td>USAD: UnSupervised Anomaly Detection on Multivariate Time Series</td>
+      <td>KDD</td>
+      <td>2020</td>
+      <td><a><span id="user-content-id18"><span id="user-content-id18"></span>[#Ma2021Jump]_</span></a></td>
+      <td><a href="https://dl.acm.org/doi/10.1145/3394486.3403392" rel="nofollow">[HTML]</a>
+    </tr>
+    <tr>
+      <td>Robust Random Cut Forest Based Anomaly Detection On Streams</td>
+      <td>KDD</td>
+      <td>2020</td>
+      <td><a><span id="user-content-id18"><span id="user-content-id18"></span>[#Ma2021Jump]_</span></a></td>
+      <td><a href="http://proceedings.mlr.press/v48/guha16.pdf" rel="nofollow">[PDF]</a>, <a href="https://github.com/kLabUM/rrcf" rel="nofollow">[GITHUB]</a>
     </tr>
   </tbody>
 </table>
