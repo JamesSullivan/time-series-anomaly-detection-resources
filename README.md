@@ -5,6 +5,9 @@
 
 
 
+## Courses
+[A Very Short Course on Time Series Analysis](https://bookdown.org/rdpeng/timeseriesbook/)
+
 ## Articles/Blogs
 [Effective Approaches for Time Series Anomaly Detection](https://towardsdatascience.com/effective-approaches-for-time-series-anomaly-detection-9485b40077f1)
 
@@ -55,18 +58,18 @@
       <td><a href="https://arxiv.org/pdf/1906.03821.pdf" rel="nofollow">[PDF]</a></td>
     </tr>
     <tr>
-      <td>Revisiting Time Series Outlier Detection: Definitions and Benchmarks</td>
-      <td>NeurIPS</td>
-      <td>2021</td>
-      <td><a><span id="user-content-id17"><span id="user-content-id6"></span>[#Lai2021Revisiting]_</span></a></td>
-      <td><a href="https://openreview.net/pdf?id=r8IvOsnHchr" rel="nofollow">[PDF]</a>, <a href="https://github.com/datamllab/tods/tree/benchmark">[Code]</a></td>
+      <td>Human-Interpretable Rules for Anomaly Detection in Time-series</td>
+      <td>Open Proceeding</td>
+      <td>2020</td>
+      <td><a><span id="user-content-id18"><span id="user-content-id18"></span></span></a></td>
+      <td><a href="https://openproceedings.org/2021/conf/edbt/p81.pdf">[PDF]</a>
     </tr>
     <tr>
-      <td>Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems</td>
-      <td>USENIX</td>
-      <td>2021</td>
-      <td><a><span id="user-content-id18"><span id="user-content-id18"></span>[#Ma2021Jump]_</span></a></td>
-      <td><a href="https://www.usenix.org/system/files/atc21-ma.pdf" rel="nofollow">[PDF]</a>, <a href="https://youtu.be/tm4HwA75Q28">[Video]</a></td>
+      <td>ANOMALY DETECTION IN UNIVARIATE TIME-SERIES: A SURVEY ON THE STATE-OF-THE-ART</td>
+      <td></td>
+      <td>2020</td>
+      <td><a><span id="user-content-id18"><span id="user-content-id18"></span></span></a></td>
+      <td><a href="https://arxiv.org/pdf/2004.00433.pdf">[PDF]</a>
     </tr>
     <tr>
       <td>Convolutional Neural Network Analysis of Recurrence Plots for Anomaly Detection</td>
@@ -88,6 +91,20 @@
       <td>2020</td>
       <td><a><span id="user-content-id18"><span id="user-content-id18"></span>[#Ma2021Jump]_</span></a></td>
       <td><a href="http://proceedings.mlr.press/v48/guha16.pdf" rel="nofollow">[PDF]</a>, <a href="https://github.com/kLabUM/rrcf" rel="nofollow">[GITHUB]</a>
+    </tr>
+    <tr>
+      <td>Revisiting Time Series Outlier Detection: Definitions and Benchmarks</td>
+      <td>NeurIPS</td>
+      <td>2021</td>
+      <td><a><span id="user-content-id17"><span id="user-content-id6"></span>[#Lai2021Revisiting]_</span></a></td>
+      <td><a href="https://openreview.net/pdf?id=r8IvOsnHchr" rel="nofollow">[PDF]</a>, <a href="https://github.com/datamllab/tods/tree/benchmark">[Code]</a></td>
+    </tr>
+    <tr>
+      <td>Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems</td>
+      <td>USENIX</td>
+      <td>2021</td>
+      <td><a><span id="user-content-id18"><span id="user-content-id18"></span>[#Ma2021Jump]_</span></a></td>
+      <td><a href="https://www.usenix.org/system/files/atc21-ma.pdf" rel="nofollow">[PDF]</a>, <a href="https://youtu.be/tm4HwA75Q28">[Video]</a></td>
     </tr>
   </tbody>
 </table>
