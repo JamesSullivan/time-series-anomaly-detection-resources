@@ -34,11 +34,18 @@
       <td><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/gupta14_tkde.pdf" rel="nofollow">[PDF]</a></td>
     </tr>
     <tr>
-      <td>Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding</td>
-      <td>KDD</td>
+      <td>Online Outlier Detection in Financial Time Series</td>
+      <td>Master's Thesis</td>
       <td>2018</td>
-      <td><a><span id="user-content-id13"><span id="user-content-id2"></span>[#Hundman2018Detecting]_</span></a></td>
-      <td><a href="https://arxiv.org/pdf/1802.04431.pdf" rel="nofollow">[PDF]</a>, <a href="https://github.com/khundman/telemanom">[Code]</a></td>
+      <td><a><span id="user-content-id13"><span id="user-content-id2"></span></span></a></td>
+      <td><a href="https://www.diva-portal.org/smash/get/diva2:1206655/FULLTEXT01.pdf" rel="nofollow">[PDF]</a></td>
+    </tr>
+    <tr>
+      <td>Anomaly detection of timeseries: A comparison of statistical vs classical machine learning vs deep learning approaches</td>
+      <td>Master's Thesis</td>
+      <td>2019</td>
+      <td><a><span id="user-content-id13"><span id="user-content-id2"></span></span></a></td>
+      <td><a href="http://www.ke.tu-darmstadt.de/bibtex/attachments/single/429" rel="nofollow">[PDF]</a></td>
     </tr>
     <tr>
       <td>Time-Series Anomaly Detection Service at Microsoft</td>
