@@ -6,6 +6,7 @@
 
 ## Books
 [Outlier Analysis Second Edition](http://charuaggarwal.net/outlierbook.pdf)
+
 [A Very Short Course on Time Series Analysis](https://bookdown.org/rdpeng/timeseriesbook/)
 
 
