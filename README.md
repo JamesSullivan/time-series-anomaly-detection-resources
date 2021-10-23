@@ -120,6 +120,8 @@
 
 
 ## Libraries
+[ad_examples/TimeSeries](https://github.com/shubhomoydas/ad_examples/blob/master/TimeSeries.md#exploratory-analysis)
+
 [Merlion](https://arxiv.org/pdf/2109.09265v1.pdf)
 
 [Revisiting Time Series Outlier Detection: Definition and Benchmark](https://github.com/datamllab/tods/tree/benchmark)
