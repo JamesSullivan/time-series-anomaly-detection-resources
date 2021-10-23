@@ -4,9 +4,10 @@
 [Anomaly Detection Learning Resources](https://github.com/yzhao062/anomaly-detection-resources)
 
 
-
-## Courses
+## Books
+[Outlier Analysis Second Edition](http://charuaggarwal.net/outlierbook.pdf)
 [A Very Short Course on Time Series Analysis](https://bookdown.org/rdpeng/timeseriesbook/)
+
 
 ## Articles/Blogs
 [Effective Approaches for Time Series Anomaly Detection](https://towardsdatascience.com/effective-approaches-for-time-series-anomaly-detection-9485b40077f1)
@@ -70,6 +71,13 @@
       <td>2020</td>
       <td><a><span id="user-content-id18"><span id="user-content-id18"></span></span></a></td>
       <td><a href="https://arxiv.org/pdf/2004.00433.pdf">[PDF]</a>
+    </tr>
+    <tr>
+      <td>Deep Learning for Anomaly Detection: A Review</td>
+      <td></td>
+      <td>2020</td>
+      <td><a><span id="user-content-id18"><span id="user-content-id18"></span></span></a></td>
+      <td><a href="https://arxiv.org/abs/2007.02500">[PDF]</a>
     </tr>
     <tr>
       <td>Convolutional Neural Network Analysis of Recurrence Plots for Anomaly Detection</td>
