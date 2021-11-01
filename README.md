@@ -39,6 +39,13 @@
       <td><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/gupta14_tkde.pdf" rel="nofollow">[PDF]</a></td>
     </tr>
     <tr>
+      <td>A Survey On Outlier Detection In The Context Of Stream Mining: review Of Existing Approaches And Recommadations</td>
+      <td>16th International Conference on Intelligent Systems Design and Applications</td>
+      <td>2016</td>
+      <td><a><span id="user-content-id13"><span id="user-content-id2"></span></span></a></td>
+      <td><a href="http://www.mirlabs.net/isda16/proceedings/pdf/Paper51.pdf" rel="nofollow">[PDF]</a></td>
+    </tr>
+    <tr>
       <td>Online Outlier Detection in Financial Time Series</td>
       <td>Master's Thesis</td>
       <td>2018</td>
