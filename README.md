@@ -53,6 +53,13 @@
       <td><a href="http://www.ke.tu-darmstadt.de/bibtex/attachments/single/429" rel="nofollow">[PDF]</a></td>
     </tr>
     <tr>
+      <td>Anomaly Detection in Streaming Time Series Data</td>
+      <td>Phd Thesis Monash University</td>
+      <td>2019</td>
+      <td><a><span id="user-content-id13"><span id="user-content-id2"></span></span></a></td>
+      <td><a href="https://bridges.monash.edu/articles/thesis/Anomaly_Detection_in_Streaming_Time_Series_Data/11302250/1" rel="nofollow">[PDF]</a></td>
+    </tr>
+    <tr>
       <td>Time-Series Anomaly Detection Service at Microsoft</td>
       <td>KDD</td>
       <td>2019</td>
